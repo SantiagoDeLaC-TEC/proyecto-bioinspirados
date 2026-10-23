@@ -7,7 +7,7 @@ Optimiza el diámetro de las 34 tuberías de la red Hanoi con tres objetivos (co
 ## Requisitos
 
 - Python 3.12
-- [uv](https://docs.astral.sh/uv/) (recomendado) o pip
+- [uv](https://docs.astral.sh/uv/)
 
 Dependencias principales: WNTR (EPANET), pymoo, numpy, pandas, scipy, matplotlib y Jupyter.
 
